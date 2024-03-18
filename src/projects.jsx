@@ -1,38 +1,42 @@
-[
+
+
+const Projectsjson = [
     {
       "title": "Random Password Generator",
       "code": "https://github.com/tosin1691/Random-Password-Generator",
-      "image": "./images/Screenshot-Pass-Gen-App.png",
+      "image": "../assets/images/Team-Profile-Gen Screenshot.png",
       "site": "https://tosin1691.github.io/Random-Password-Generator/"
     },
     {
       "title": "CLI Team Profile Builder",
       "code": "https://github.com/tosin1691/Team-Profile-Generator",
-      "image": "./images/Team-Profile-Gen Screenshot.png",
+      "image": "../assets/images/Team-Profile-Gen Screenshot.png",
       "site": "https://tosin1691.github.io/Team-Profile-Generator/"
     },
     {
       "title": "The Cocktail Recipe App",
       "code": "https://github.com/RedPez/The-Drunk-Chef-App",
-      "image":"./images/The-Drunk-Chef-screenshot.png",
+      "image":"../assets/images/Team-Profile-Gen Screenshot.png",
       "site": "https://redpez.github.io/The-Drunk-Chef-App/"
     },
     {
       "title": "The Quiz App",
       "code": "https://github.com/tosin1691/Timed-Coding-Quiz",
-      "image": "./images/Timed-coding-quiz.png",
+      "image": "../assets/images/Team-Profile-Gen Screenshot.png",
       "site": "https://tosin1691.github.io/Timed-Coding-Quiz/starter"
     },
     {
       "title": "The Weather App (API)",
       "code": "https://github.com/tosin1691/Weather-Dashboard-App",
-      "image": "./images/Weather-Dashboard-App.png",
+      "image": "../assets/images/Team-Profile-Gen Screenshot.png",
       "site": "https://tosin1691.github.io/Weather-Dashboard-App"
     },
     {
       "title": "The Workday Schedule App",
       "code": "https://github.com/tosin1691/Work-Day-Schedule",
-      "image": "./images/Work-Day-Schedule-app.png",
+      "image": "../assets/images/Team-Profile-Gen Screenshot.png",
       "site": "https://tosin1691.github.io/Work-Day-Schedule"
     }
   ]
+
+  export default Projectsjson

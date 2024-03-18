@@ -10,12 +10,12 @@ import tailwind from "../assets/Program-lang/tailwind.png";
 
 const Skills = () => {
   return (
-    <div>
+    <div name='skills' className="pl-40 pr-6">
       <div>
-        <p>Skills</p>
-        <p>Technologies I have worked with include:</p>
+        <p className="text-6xl font-bold pb-4 mb-10 max-w-[1100px] sectionHeader">Skills<span>.</span></p>
+        <p className="text-2xl font-bold pb-10">Technologies I have worked with include<span>:</span></p>
       </div>
-      <div className="grid grid-cols-4 gap-4">
+      <div className="grid grid-cols-4 gap-2 mb-40">
         <div>
           <img className="w-20 mx-auto" src={html} alt="html icon" />
           <p>HTML</p>

@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    --lightGrayColor: #C0BCB5;
+    --darkColor: black;
+}
+
+.sectionHeader {
+    border-bottom: 1px solid var(--lightGrayColor);
+}
