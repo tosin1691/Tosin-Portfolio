@@ -8,3 +8,9 @@
     font-weight: 200;
     color: rgb(26, 220, 245);
 }
+
+.menu-option:hover{
+    margin-top: 0;
+    border-top: 2px solid rgb(26, 220, 245);
+    cursor: pointer;
+}

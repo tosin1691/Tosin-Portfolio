@@ -6,8 +6,8 @@ import "./Navbar.css"
 
 function Navbar() {
   return (
-    <header>
-        <div className='ml-20 flex justify-between'>
+    <header className='fixed w-full backdrop-blur-md ml-14'>
+        <div className='ml-20 flex justify-between items-center '>
           <div>
             <ul className='platform-container flex'>
               <li>
