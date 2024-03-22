@@ -5,7 +5,7 @@ import '../index.css'
 const Contact = () => {
   return (
     <div name='contact' className="pl-24 md:pl-40 pr-6 md:flex bg-gray-800">
-      <div className="md:w-1/2 mx-auto pt-20 md:pt-80">
+      <div className="md:w-1/2 mx-auto pt-20 md:pt-56">
         <p className="text-4xl sm:text-6xl md:text-6xl pb-4 text-right sectionHeader text-slate-50 md:invisible">Contact<span>.</span></p>
         <img src={ContactImage} className="mx-auto" />
       </div>
