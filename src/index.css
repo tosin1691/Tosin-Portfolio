@@ -96,6 +96,7 @@ span{
   }
 
   .contact-btn:hover {
-    color: rgb(26, 220, 245);
-    background-color: black;
+    color: black;
+    background-color: rgb(26, 220, 245);
+    border: 2px solid black;
   }

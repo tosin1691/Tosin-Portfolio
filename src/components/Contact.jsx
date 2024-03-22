@@ -59,7 +59,7 @@ const Contact = () => {
             rows="10">
             </textarea>
           </div>
-          <button className="border-solid border-2 border-sky-950 rounded-xl w-1/5 mx-auto mt-2 contact-btn">
+          <button className="border-solid border-2 border-[rgb(26, 220, 245)] rounded-xl w-1/5 mx-auto mt-2 text-slate-50 contact-btn">
             Send
           </button>
         </form>
